@@ -1,6 +1,6 @@
 # Hijack Writeup
 
-THis is a writeup for the Tryhackme challenge [Hijack](https://tryhackme.com/room/hijack)
+This is a writeup for the Tryhackme challenge [Hijack](https://tryhackme.com/room/hijack)
 
 ## Enumeration
 
