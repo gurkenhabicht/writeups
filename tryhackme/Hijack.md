@@ -261,4 +261,4 @@ root@Hijack:/tmp# cat /root/root.txt
 THM{XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX}
 ```
 
-Happy Hacking!
+The box was fun :) Thanks to  0utc4s7 and Happy Hacking!
